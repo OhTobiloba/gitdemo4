@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: tomato;
+}
+
+body .card {
+  margin: 40px auto;
+  width: 300px;
+}
+
+body .card .cardTop {
+  color: white;
+  background-color: green;
+}
+
+body .card .cardDown {
+  color: white;
+  background-color: green;
+}
+/*# sourceMappingURL=styles.css.map */
